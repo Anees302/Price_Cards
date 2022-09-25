@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(199, 228, 228);
+    height: 100vh;
+    width: 100vw;
+
+    .card1{
+        box-shadow: 0px 5px 10px rgb(54, 53, 53);
+        background-color: white;
+        height: 400px;
+        width: 250px;
+        margin: 20px;
+        .free{margin: 40px 0px 0px 30px;
+            font-size:
+             22px;
+        }
+        .freelancers{
+            margin: 10px 0px 0px 30px;
+             ;
+
+
+        }
+        .price{
+            margin: 10px 0px 0px 30px;
+            font-size:32px;
+
+        }
+        .perk{
+            margin-top: 30px;
+            height: 132px;
+        }
+        .perks{
+            i{
+                margin-top: 8px ;
+                margin-left: 30px;
+            }
+        }
+        .btn{height: 40px;
+            width: 200px;
+            margin: 20px 0px 0px 22px;
+            border-radius: 50px;
+            background-color: rgb(18, 18, 40);
+            color: white;
+        }
+    }
+    .card2{color: white;
+        background-color: rgb(18, 18, 40);
+        height: 400px;
+        width: 250px;
+        margin: 20px;
+        .free{margin: 40px 0px 0px 30px;
+            font-size:
+             22px;
+        }
+        .freelancers{
+            margin: 10px 0px 0px 30px;
+             ;
+
+
+        }
+        .price{
+            margin: 10px 0px 0px 30px;
+            font-size:32px;
+
+        }
+        .perk{
+            margin-top: 30px;
+            height: 132px;
+        }
+        .perks{
+            i{
+                margin-top: 8px ;
+                margin-left: 30px;
+            }
+        }
+        .btn{height: 35px;
+            width: 200px;
+            margin: 20px 0px 0px 22px;
+            border-radius: 50px;
+            background-color: white;
+            color: rgb(18, 18, 40);
+        }
+    }
+    .card3{
+        box-shadow: 0px 5px 10px rgb(54, 53, 53);
+        background-color: white;
+        height: 400px;
+        width: 250px;
+        margin: 20px;
+        .free{margin: 40px 0px 0px 30px;
+            font-size:
+             22px;
+        }
+        .freelancers{
+            margin: 10px 0px 0px 30px;
+             ;
+
+
+        }
+        .price{
+            margin: 10px 0px 0px 30px;
+            font-size:32px;
+
+        }
+        .perk{
+            margin-top: 30px;
+            height: 132px;
+        }
+        .perks{
+            i{
+                margin-top: 8px ;
+                margin-left: 30px;
+            }
+        }
+        .btn{height: 40px;
+            width: 200px;
+            margin: 20px 0px 0px 22px;
+            border-radius: 50px;
+            background-color: rgb(18, 18, 40);
+            color: white;
+        }
+    }
+}
